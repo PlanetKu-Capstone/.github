@@ -26,6 +26,11 @@ With PlanetKu, we are committed to creating a healthier earth, reducing carbon e
 
 # Screenshot
 ![beranda](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku1.png?raw=true)
+![sampah](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku2.png?raw=true)
+![karbon](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku3.png?raw=true)
+![harga](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku4.png?raw=true)
+![tambahanfitur](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku5.png?raw=true)
+![menulainnya](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku6.png?raw=true)
 
 # Presentation Video
 
