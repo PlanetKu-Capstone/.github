@@ -6,7 +6,7 @@ Project Name : PlanetKu
 Theme : Sustainable Futures: Nurturing harmony between humanity and the environment
 
 # About PlanetKu
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Logo%20PlanetKu.jpg?raw=true" alt="Logo" style="border-radius: 15px; width=150"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Logo%20PlanetKu.jpg?raw=true" alt="Logo" style="border-radius: 15px; width=150px;"/>
 
 Accumulated waste not only poses a threat to the environment and public health, but also contributes significantly to increased carbon emissions, which exacerbates global warming and accelerates climate change. Based on data from the National Waste Management Information System (SIPSN), the national waste stockpile in 2021 was recorded at 28.5 million tons, increasing to 38.2 million tons in 2023. This growth shows an alarming pattern of increase, as carbon emissions continue to grow. In addition, floods that often occur during rainy days are getting worse due to the accumulation of waste that clogs the flow of water. 
 
