@@ -5,6 +5,7 @@ Team ID : C242-PS412
 # About PlanetKu
 <img src="https://github.com/PlanetKu-Capstone/Profile/blob/main/Logo%20PlanetKu.jpg?raw=true" alt="Logo" width="150"/>
 Theme : Sustainable Futures: Nurturing harmony between humanity and the environment
+
 Accumulated waste not only poses a threat to the environment and public health, but also contributes significantly to increased carbon emissions, which exacerbates global warming and accelerates climate change. Based on data from the National Waste Management Information System (SIPSN), the national waste stockpile in 2021 was recorded at 28.5 million tons, increasing to 38.2 million tons in 2023. This growth shows an alarming pattern of increase, as carbon emissions continue to grow. In addition, floods that often occur during rainy days are getting worse due to the accumulation of waste that clogs the flow of water. 
 
 This research aims to answer the main questions: Why does waste continue to accumulate every year, why do floods become more frequent during rainy days, and how can waste management help reduce carbon emissions? We wanted to create a PlanetKu app that could help people to support a healthier environment.
@@ -26,6 +27,7 @@ With PlanetKu, we are committed to creating a healthier earth, reducing carbon e
 
 # Download Our app
 Link :
+
 When installed apk if showing error "App not installed" , make sure that your device does not block installing apk from outside the playtore or the install from unknown source setting must be allowed and make sure when download not corrupted .  
 
 or another possibility is that your android version does not support using this apk 
