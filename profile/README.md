@@ -24,6 +24,9 @@ With PlanetKu, we are committed to creating a healthier earth, reducing carbon e
 | A700B4KY1011 | David Eri Nugroho | Mobile Development | Universitas Pradita |
 | A295B4KY3592 | Rafie Rojagat Bachri | Mobile Development | Universitas Pembangunan Nasional Veteran Jakarta |
 
+# Screenshot
+![beranda](https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku1.png?raw=true)
+
 # Presentation Video
 
 # Download Our app
