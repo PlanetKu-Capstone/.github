@@ -25,12 +25,12 @@ With PlanetKu, we are committed to creating a healthier earth, reducing carbon e
 | A295B4KY3592 | Rafie Rojagat Bachri | Mobile Development | Universitas Pembangunan Nasional Veteran Jakarta |
 
 # Screenshot
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku1.png?raw=true" alt="Beranda" width="300"/>
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku2.png?raw=true" alt="fitur sampah" width="300"/>
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku3.png?raw=true" alt="fitur carbon" width="300"/>
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku4.png?raw=true" alt="fitur harga" width="300"/>
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku5.png?raw=true" alt="fitur lain" width="300"/>
-<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku6.png?raw=true" alt="menu lain" width="300"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku1.png?raw=true" alt="Beranda" width="900"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku2.png?raw=true" alt="fitur sampah" width="900"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku3.png?raw=true" alt="fitur carbon" width="900"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku4.png?raw=true" alt="fitur harga" width="900"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku5.png?raw=true" alt="fitur lain" width="900"/>
+<img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku6.png?raw=true" alt="menu lain" width="900"/>
 
 # Presentation Video
 
