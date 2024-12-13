@@ -34,6 +34,7 @@ With PlanetKu, we are committed to creating a healthier earth, reducing carbon e
 <img src="https://github.com/PlanetKu-Capstone/.github/blob/main/Planetku6.png?raw=true" alt="menu lain" width="900"/>
 
 # Presentation Video
+https://www.youtube.com/watch?v=FGWJFAPR4P4
 
 # Download Our app
 Link :
