@@ -37,10 +37,10 @@ With PlanetKu, we are committed to creating a healthier earth, reducing carbon e
 https://www.youtube.com/watch?v=FGWJFAPR4P4
 
 # Download Our app
-Link :
+Link : https://drive.google.com/file/d/1Sh8ax7Iy_vqLlCWozuzPBFMEqbHJt2PM/view
 
 When installed apk if showing error "App not installed" , make sure that your device does not block installing apk from outside the playtore or the install from unknown source setting must be allowed and make sure when download not corrupted .  
 
 or another possibility is that your android version does not support using this apk 
 
-Min Android version to run this app : xx
+Min Android version to run this app : 7.0
